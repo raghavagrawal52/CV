@@ -1,7 +1,7 @@
   
 syntax on
 
-set guicursor=
+set guicursor
 set noshowmatch
 set relativenumber
 set nohlsearch
